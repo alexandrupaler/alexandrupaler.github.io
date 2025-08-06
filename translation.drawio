@@ -291,18 +291,18 @@
         </mxCell>
         <mxCell id="uUMKanFMK57B4EQ0Y6xT-70" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=7;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="163" y="380.85" as="sourcePoint" />
-            <mxPoint x="225" y="380.85" as="targetPoint" />
+            <mxPoint x="173" y="380.85" as="sourcePoint" />
+            <mxPoint x="235" y="380.85" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uUMKanFMK57B4EQ0Y6xT-71" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=7;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="163" y="428.75" as="sourcePoint" />
-            <mxPoint x="225" y="428.75" as="targetPoint" />
+            <mxPoint x="173" y="428.75" as="sourcePoint" />
+            <mxPoint x="235" y="428.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uUMKanFMK57B4EQ0Y6xT-72" value="&lt;font&gt;C&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=42;fontFamily=Garamond;" vertex="1" parent="1">
-          <mxGeometry x="169" y="375" width="50" height="60" as="geometry" />
+          <mxGeometry x="179" y="375" width="50" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uUMKanFMK57B4EQ0Y6xT-94" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=7;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
